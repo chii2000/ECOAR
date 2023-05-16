@@ -1,0 +1,4 @@
+a: 5
+value a
+bbb: x + 6
+bbb + c * a
